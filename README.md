@@ -1,2 +1,2 @@
 # test
-test1
+\frac{(a+b)h}{2}
